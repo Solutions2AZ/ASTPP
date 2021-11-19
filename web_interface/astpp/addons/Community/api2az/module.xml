@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon>
+	<tech_name>api2az</tech_name>
+	<name>api2az</name>
+	<description>Enable the API for manage 2 AZ Custom Management</description>		
+	<icon>static/images/apiz2az_icon.png</icon>
+	<version>1.0.0</version>
+	<license>Community</license>	
+	<author>Solutions 2 AZ</author>
+	<status>production</status>
+</addon>
